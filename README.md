@@ -4,8 +4,10 @@ See it running here: https://twitter.com/jeromeschneider/status/1612566775467593
 
 I used this led panel, others might work as well! https://www.amazon.fr/gp/product/B088W62171/
 
+```
   Pins:  Arduino             Led Panel
          -------             ---------
          D6                  Data in
          Power 5V            5v in
          Ground              Ground
+```
