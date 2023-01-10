@@ -11,3 +11,7 @@ I used this led panel, others might work as well! https://www.amazon.fr/gp/produ
          Power 5V            5v in
          Ground              Ground
 ```
+
+Uses the https://github.com/adafruit/Adafruit_NeoPixel library. Use Tools > Manage Libraries in Arduino IDE to add "Adafruit_NeoPixel" to your managed libraries.
+
+Happy Birthday Martin! ❤️ 8 🚀
