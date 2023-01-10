@@ -1,4 +1,4 @@
-#include <Adafruit_NeoPixel.h>
+#include <Adafruit_NeoPixel.h> // add this library "Adafruit_NeoPixel" to your Arduino IDE
 
 // Uses a 8x8 WS2812B led panel to display a birthday card for an 8 year old kid.
 // See it running here: https://twitter.com/jeromeschneider/status/1612566775467593732
